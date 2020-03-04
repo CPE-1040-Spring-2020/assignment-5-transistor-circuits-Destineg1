@@ -22,6 +22,8 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
 ```
 Art acknowledgement: [taag](http://patorjk.com/software/taag/)
 
+2N3904 Transmitter
+
 1. With the switch off, measure the voltages:
     * Accross the resistor RC.  0.13MV
     * At the collector (C).  2.69
@@ -33,3 +35,19 @@ Art acknowledgement: [taag](http://patorjk.com/software/taag/)
     * The emitter current IE. 2.7mv
     * The base current IB. If this current is not zero, you are doing something wrong :) 5.7 ma
     * Record these currents in the README. Does any current flow?
+
+
+2N3906 transmitter
+
+1. With the switch off, measure the voltages:
+    * Accross the resistor RC.  0.7V
+    * At the collector (C). 3.43V
+    * At the base (B). 4.27V
+    * At the emitter (E). 4.97V
+    * Record these voltages in the README.
+2. With the switch off, measure the currents:
+    * The collector current IC. 2.17 mA
+    * The emitter current IE. 2.59 mA
+    * The base current IB. If this current is not zero, you are doing something wrong :) 0.42mA
+    * Record these currents in the README. Does any current flow?
+
