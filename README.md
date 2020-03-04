@@ -21,3 +21,15 @@ _**NOTE:** This assignment [README](README.md) is _intentionally_ blank. It is p
                                                                                                                       
 ```
 Art acknowledgement: [taag](http://patorjk.com/software/taag/)
+
+1. With the switch off, measure the voltages:
+    * Accross the resistor RC.  0.13MV
+    * At the collector (C).  2.69
+    * At the base (B).  0.03
+    * At the emitter (E). 0.02
+    * Record these voltages in the README.
+2. With the switch off, measure the currents:
+    * The collector current IC. 0.1V
+    * The emitter current IE. 2.7mv
+    * The base current IB. If this current is not zero, you are doing something wrong :) 5.7 ma
+    * Record these currents in the README. Does any current flow?
